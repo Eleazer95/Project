@@ -1,0 +1,1 @@
+{"version":"2.0.0","tasks":[{"label":"Execute Python","type":"shell","command":"python","windows":{"command":"python"},"linux":{"command":"python"},"args":["setup.py"],"group":"test"}]}
